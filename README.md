@@ -10,4 +10,4 @@
 - My linkedin page : 
 	- https://www.linkedin.com/in/jonathan-fave-1aab251a2/
 
-<img  align="right" src="https://komarev.com/ghpvc/?username=Fred-23&label=Profile%20views&color=0e75b6&style=flat"  />
+<img  align="right" src="https://komarev.com/ghpvc/?username=jonathanfave&label=Profile%20views&color=0e75b6&style=flat"  />
